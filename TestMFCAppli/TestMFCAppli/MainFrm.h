@@ -12,7 +12,7 @@ class CMainFrame : public CMDIFrameWndEx
 {
 	DECLARE_DYNAMIC(CMainFrame)
 public:
-	CMainFrame();
+	CMainFrame(); // Add some comment
 
 // Attributes
 public:
